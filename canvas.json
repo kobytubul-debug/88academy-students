@@ -1,0 +1,294 @@
+{
+  "attachments": {},
+  "boards": {
+    "AIChecks.dc.html": {
+      "expand": "fill",
+      "h": 1260,
+      "is_interactive": true,
+      "title": "10 · בדיקות AI",
+      "w": 1440,
+      "x": 13680,
+      "y": 0
+    },
+    "Activity.dc.html": {
+      "expand": "fill",
+      "h": 1660,
+      "is_interactive": true,
+      "title": "11 · יומן פעילות",
+      "w": 1440,
+      "x": 15200,
+      "y": 0
+    },
+    "Curriculum.dc.html": {
+      "expand": "fill",
+      "h": 1980,
+      "is_interactive": true,
+      "title": "06 · תוכנית לימודים",
+      "w": 1440,
+      "x": 7600,
+      "y": 0
+    },
+    "Leadership.dc.html": {
+      "expand": "fill",
+      "h": 1160,
+      "is_interactive": true,
+      "title": "05 · מנהיגות",
+      "w": 1440,
+      "x": 6080,
+      "y": 0
+    },
+    "Login.dc.html": {
+      "expand": "fill",
+      "h": 1000,
+      "is_interactive": true,
+      "title": "00 · כניסה",
+      "w": 1440,
+      "x": -1520,
+      "y": 0
+    },
+    "Main.dc.html": {
+      "expand": "fill",
+      "h": 2560,
+      "is_interactive": true,
+      "title": "01 · סקירה — לוח בקרה",
+      "w": 1440,
+      "x": 0,
+      "y": 0
+    },
+    "Observer.dc.html": {
+      "expand": "fill",
+      "h": 1700,
+      "is_interactive": true,
+      "title": "22 · משקיף — הקבוצה שלי",
+      "w": 1440,
+      "x": 0,
+      "y": 6280
+    },
+    "RewardEdit.dc.html": {
+      "expand": "fill",
+      "h": 1900,
+      "is_interactive": true,
+      "title": "09 · עריכת פרס",
+      "w": 1440,
+      "x": 12160,
+      "y": 0
+    },
+    "Rewards.dc.html": {
+      "expand": "fill",
+      "h": 1040,
+      "is_interactive": true,
+      "title": "08 · פרסים",
+      "w": 1440,
+      "x": 10640,
+      "y": 0
+    },
+    "SkillEdit.dc.html": {
+      "expand": "fill",
+      "h": 1990,
+      "is_interactive": true,
+      "title": "07 · עריכת מיומנות",
+      "w": 1440,
+      "x": 9120,
+      "y": 0
+    },
+    "StudentApp.dc.html": {
+      "expand": "fill",
+      "h": 1760,
+      "is_interactive": true,
+      "title": "12 · סטודנט — לוח מחוונים",
+      "w": 1440,
+      "x": 0,
+      "y": 3000
+    },
+    "StudentChallenges.dc.html": {
+      "expand": "fill",
+      "h": 900,
+      "is_interactive": true,
+      "title": "16 · סטודנט — אתגרים",
+      "w": 1440,
+      "x": 6080,
+      "y": 3000
+    },
+    "StudentDetail.dc.html": {
+      "expand": "fill",
+      "h": 2160,
+      "is_interactive": true,
+      "title": "03 · כרטיס סטודנט",
+      "w": 1440,
+      "x": 3040,
+      "y": 0
+    },
+    "StudentFlights.dc.html": {
+      "expand": "fill",
+      "h": 900,
+      "is_interactive": true,
+      "title": "17 · סטודנט — הטיסות שלי",
+      "w": 1440,
+      "x": 7600,
+      "y": 3000
+    },
+    "StudentPathGraph.dc.html": {
+      "expand": "fill",
+      "h": 1990,
+      "is_interactive": true,
+      "title": "14 · סטודנט — הנתיב שלי (גרף)",
+      "w": 1440,
+      "x": 3040,
+      "y": 3000
+    },
+    "StudentPathList.dc.html": {
+      "expand": "fill",
+      "h": 1290,
+      "is_interactive": true,
+      "title": "15 · סטודנט — הנתיב שלי (רשימה)",
+      "w": 1440,
+      "x": 4560,
+      "y": 3000
+    },
+    "StudentRewards.dc.html": {
+      "expand": "fill",
+      "h": 900,
+      "is_interactive": true,
+      "title": "18 · סטודנט — פרסים",
+      "w": 1440,
+      "x": 9120,
+      "y": 3000
+    },
+    "StudentSkill.dc.html": {
+      "expand": "fill",
+      "h": 1260,
+      "is_interactive": true,
+      "title": "13 · סטודנט — מיומנות",
+      "w": 1440,
+      "x": 1520,
+      "y": 3000
+    },
+    "Students.dc.html": {
+      "expand": "fill",
+      "h": 1600,
+      "is_interactive": true,
+      "title": "02 · סטודנטים",
+      "w": 1440,
+      "x": 1520,
+      "y": 0
+    },
+    "Units.dc.html": {
+      "expand": "fill",
+      "h": 900,
+      "is_interactive": true,
+      "title": "04 · יחידות",
+      "w": 1440,
+      "x": 4560,
+      "y": 0
+    },
+    "StudentPoints.dc.html": {
+      "expand": "fill",
+      "h": 1760,
+      "is_interactive": true,
+      "title": "19 · סטודנט — המטבעות שלי",
+      "w": 1440,
+      "x": 10640,
+      "y": 3000
+    },
+    "StudentGuide.dc.html": {
+      "expand": "fill",
+      "h": 2830,
+      "is_interactive": true,
+      "title": "20 · סטודנט — איך צוברים מטבעות",
+      "w": 1440,
+      "x": 12160,
+      "y": 3000
+    },
+    "StudentLevelUp.dc.html": {
+      "expand": "fill",
+      "h": 1820,
+      "is_interactive": true,
+      "title": "21 · סטודנט — עלייה בדרגה",
+      "w": 1440,
+      "x": 13680,
+      "y": 3000
+    },
+    "PointsSettings.dc.html": {
+      "expand": "fill",
+      "h": 3860,
+      "is_interactive": true,
+      "title": "23 · הגדרות ניקוד",
+      "w": 1440,
+      "x": 16720,
+      "y": 0
+    },
+    "StudentPathPhone.dc.html": {
+      "expand": "fill",
+      "h": 3140,
+      "is_interactive": true,
+      "title": "14 · סטודנט — הנתיב שלי (גרף, טלפון)",
+      "w": 390,
+      "x": 3040,
+      "y": 5070
+    }
+  },
+  "createdOnFiles": {
+    "at": "2026-10-16T21:25:00Z",
+    "v": 1
+  },
+  "designSystems": [],
+  "launch": {
+    "view": "canvas"
+  },
+  "notes": {
+    "flowTitle": {
+      "kind": "title1",
+      "maxW": 8000,
+      "text": "88ACADEMY",
+      "w": 240,
+      "x": 0,
+      "y": -330
+    },
+    "observerTitle": {
+      "kind": "title1",
+      "maxW": 8000,
+      "text": "משקיף",
+      "w": 240,
+      "x": 0,
+      "y": 5950
+    },
+    "studentsTitle": {
+      "kind": "title1",
+      "maxW": 8000,
+      "text": "סטודנט",
+      "w": 240,
+      "x": 0,
+      "y": 2670
+    }
+  },
+  "order": [
+    "Login.dc.html",
+    "Main.dc.html",
+    "Students.dc.html",
+    "StudentDetail.dc.html",
+    "Units.dc.html",
+    "Leadership.dc.html",
+    "Curriculum.dc.html",
+    "SkillEdit.dc.html",
+    "Rewards.dc.html",
+    "RewardEdit.dc.html",
+    "AIChecks.dc.html",
+    "Activity.dc.html",
+    "PointsSettings.dc.html",
+    "StudentApp.dc.html",
+    "StudentSkill.dc.html",
+    "StudentPathGraph.dc.html",
+    "StudentPathPhone.dc.html",
+    "StudentPathList.dc.html",
+    "StudentChallenges.dc.html",
+    "StudentFlights.dc.html",
+    "StudentRewards.dc.html",
+    "StudentPoints.dc.html",
+    "StudentGuide.dc.html",
+    "StudentLevelUp.dc.html",
+    "Observer.dc.html"
+  ],
+  "pages": [],
+  "title": "מיומנויות FPV — ממשק ניהול",
+  "v": 3
+}
